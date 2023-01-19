@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my Profile 🙋‍♂️! Let's connect and share our thoughts, ideas and experiences. My name's Ayan Sarma.</h1>
+<h1 align="center">Welcome to my Profile 🙋‍♂️! My name's Ayan Sarma.</h1>
 
-<h3 align="center">💡 New to Open Source but passionate about contributing and making a difference.</h3>
+<h3 align="center">💡 New to Open Source but passionate about contributing and making a difference. I am into cloud technologies👀. Let's connect and share our thoughts, ideas and experiences.</h3>
 <br>
 <p align="center">
 <img align="center" alt="Coding" width=400 src="https://i.imgur.com/mwDXTHG.gif">
